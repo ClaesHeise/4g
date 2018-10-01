@@ -30,3 +30,4 @@ val dot : float -> float -> float -> float -> float
  *
  * Alternativt kan bruges lister og arrays erstatte tupler, med lignende konsekvenser.
  *)
+ printfn "Claes er sej"
